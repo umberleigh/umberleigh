@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @umberleigh
-- 👀 I’m interested in PHP, HTML, CSS, CakePHP, MS SQL, JavaScript
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I'm @umberleigh
+- 👀 I'm interested in PHP, HTML, CSS, SASS, SQL and JavaScript
+- 🌱 I'm currently learning JavaScript
+- 🏫 I'm interested in learning GraphQL, React, Typescript, Jest, Storybook and RedwoodJs in the future.
+- 💞️ I'm looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
